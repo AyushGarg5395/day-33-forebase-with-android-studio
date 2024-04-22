@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926158605339",
+    "project_id": "day33registertofirebase",
+    "storage_bucket": "day33registertofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926158605339:android:118c09e1ae9b972b107cbe",
+        "android_client_info": {
+          "package_name": "com.example.day33registertofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ukfQWYvrVNwpDh9ezvGESA7PW0uZNls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
